@@ -1,5 +1,5 @@
 OS: Windows 7 (Primary), Also have Windows 8 and OSX 10.8 test box.
 
-Browser: Chrome (Primary). Always test for uniformity in Firefox, Opera, Safari, and IE9/10 in Windows, and Chrome, Safari and Firefox in OSX.
+Browser: Chrome (Primary). Always test for uniformity in Firefox, Opera, Safari and IE9/10 in Windows, and Chrome, Safari and Firefox in OSX.
 
 System: Asus UX31A-DB51 Ultrabook - Windows 7 (Primary), Dual boot custom system: Intel i3 3225, 8GB RAM, Intel HD 4000 Graphics - Dual Boot OS X 10.8 and Windows 8 Pro,
